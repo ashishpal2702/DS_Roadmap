@@ -1,6 +1,6 @@
 # Data Science ML Full Stack
 
-![Data Science and ML Header](https://github.com/hemansnation/Data-Science-ML-Full-Stack-2022/blob/master/images/Data-Science-and-ML-Batch.jpeg)
+![Data Science and ML Header]
 
 ### What we will do and gain?
 
@@ -297,12 +297,12 @@ https://bit.ly/3qxKEFP
 
 Connect with me on these platforms:
 
-LinkedIn: https://www.linkedin.com/in/hemansnation/
+LinkedIn: https://www.linkedin.com/in/aashishpal/
 
-Twitter: https://twitter.com/hemansnation
+Twitter: https://twitter.com/aiwithap
 
-GitHub: https://github.com/hemansnation
+GitHub: https://github.com/ashishpal2702
 
-Instagram: https://www.instagram.com/masterdexter.ai/
+Instagram: https://www.instagram.com/official_ashish_pal__/
 
 
